@@ -1,0 +1,187 @@
+EXAMPLE OF ONE POSSIBLE ROUTE:
+
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=58102:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\TestSwitch\out\production\TestSwitch Main
+What's your name? 
+Ben
+Hello there, Ben. Are you ready to begin your adventure? (Yes or No)
+Yes
+
+Great.
+
+NOTE: ALL COMMANDS ARE LOWERCASE EXCEPT DIRECTIONAL (North, East South, West)
+You find yourself washed up on a large island, with no recollection as to how you got there.
+
+ The only supplies you carry are the clothes on your back, and a small backpack filled with packaged food.
+
+You have 30 Food Packs in your bag until you starve. 
+Your adventure begins now
+
+Type 'help' for a list of commands
+
+help
+Here's what you can do: 
+look - help
+Here's what you can interact with:
+
+look
+To the North is a thick jungle, and to the South is the Ocean.
+The East is blocked by a large mountain that cuts off the cove you washed ashore on.
+The West is a long stretch of sandy beaches, to what seems like no end.
+
+You notice that you are hungry, and eat 3 food packs from your bag.
+You have 27 Food packs left.
+
+help
+Here's what you can do: 
+look - help - dig - climb - North - South
+Here's what you can interact with: 
+tree - sand
+dig sand
+You begin digging next to your feet, until you feel something buried beneath the sand.
+look
+There are parts of a shipwreck buried in the sand. Including a long rope.
+get rope
+You have obtained the rope!
+...Hold on, there is something else here... a note 
+look
+Now that you have the rope, the tree should be easy to climb
+help
+Here's what you can dO:
+look - help - get - climb
+Here's what you can interact with:
+tree - rope - note
+get note
+You pick up the note. It says: '20601'
+help
+Here's what you can dO:
+look - help - climb - North - South
+Here's what you can interact with:
+tree
+North
+You enter the thick jungle canvas. Just a few steps in, and you are 
+immediately surrounded by mosquitoes. Your vision is blurred
+help
+Here's what you can do: 
+ help - run - retreat
+Here's what you can interact with:
+
+run
+As you run away from the swarm, your vision once again becomes reliable. 
+As the last of the swarm dies off, you notice a small stone structure in the distance and decide to approach it.
+You become slightly Hungry from the long journey...
+You have 22 Food packs left.
+
+look
+There appears to be an ancient temple on this island, overgrown with moss and
+other jungle flora. The large stone body of a jaguar protrudes through the center 
+of the temple. As if to ward off any visitors...
+help
+Here's what you can do:
+ look - help - enter - retreat
+Here's what you can interact with:
+ temple
+enter
+You take your first steps into the mysterious ruins. *CLICK* 
+Your left foot lands on a trap, still fully functional even after all the years that 
+this temple has been abandoned...
+help
+Here's what you can do:
+look - help - good ol' fashion switcheroo
+Here's what you can interact with:
+
+good ol' fashion switcheroo
+You take a substantial amount of your food supply to substitute the 
+weight of your foot. You stand back in disbelief as to how you could have
+ accomplished such a maneuver, until the floor below you drops...
+You have 14 Food packs left.
+
+help
+Here's what you can do:
+ look - help
+Here's what you can interact with:
+
+look
+It is pitch black, but you can feel yourself sliding down a long tunnel.
+The sound of creaking gears makes it impossible to think. Suddenly, you
+come to a stop. A single torch lights up the room you are in.
+help
+Here's what you can do:
+look - help - follow
+Here's what you can interact with:
+torch
+
+follow torch
+You make your way towards the light on the other side of the room...
+You grow slightly hungrier, and decide to eat some more.
+You have 11 Food packs left.
+
+As you get closer, you see a panel on the wall with five slots
+20601
+The wall in front of you slides open, the sound of stone slab grinding against the mountain is deafening
+Behind the wall is a view of the whole island on a map, with a large diamond emerging from the center.
+ Seeing the shape of the island has triggered your memory
+
+You are an explorer, who voyaged out to sea with your colleagues
+ in search of an island rumored to contain a priceless Diamond.
+ You remember the violent waves that capsized your boat, and how you were knocked unconscious.
+You are filled with relief to have been so lucky, and to be the first
+ explorer to make such an accomplishment... Until you ponder the fate of your 5 team members.
+You wonder whether they could have died in the shipwreck, or if they made it onto the island like you have.
+help
+Here's what you can do:
+look - help - (entercode)
+Here's what you can interact with:
+
+
+look
+Suddenly, the torch light grows. You slowly turn around,
+to see your 5 team members lifeless, leaning against the walls
+Poisoned Arrows litter their corpses. You can infer that 
+this place is Booby Trapped. Any wrong move, and you'll die
+
+You must decide your next move carefully
+help
+Here's What you can do:
+look - help - examine
+Here's what you can interact with:
+map - bodies
+examine bodies
+You search for any information your team can provide you. As you reach 
+into one of their pockets, you find a note written in another language:
+
+It translates to:
+ 'Shine a light through my prism to escape your doom. Real Treasures are often not what we believe to be so...'
+As you continue searching, you find a map, with a ship drawn on the West shore. You think, 'this must be where the life raft is'
+help
+Here's What you can do:
+look - help - get
+Here's what you can interact with:
+map - torch
+get torch
+You hold the torch up to the diamond.
+ The Wall to the West drops suddenly. You walk along the path it gives you, 
+emerging from a large rabbit hole beneath a tree, and onto the West shore.
+You grow hungry, and eat three food packs
+You have 8 Food packs left.
+
+help
+Here's what you can do:
+look - help
+Here's what you can interact with:
+
+look
+The smell of fresh air clams your nerves. You can see the life raft in the distance.
+You shove the torch into the sand to relinquish the flames, and put it in your bag (for sentimental reasons).
+You step onto the raft, greeted by the mountain of canned and packaged food and the dual oars to guide you home.
+
+FIVE DAYS LATER
+
+As you approach the shore of your home town in San Francisco, you pick up your bag 
+and pull out the torch to thank it for saving your life.
+You glance at the charred end, and see a perfectly cut diamond embedded into the wood.
+
+E N D G A M E
+
+
+
+Process finished with exit code 0
