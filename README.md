@@ -1,2 +1,2 @@
 # Escape-d
-Try to survive
+Try to Escape
